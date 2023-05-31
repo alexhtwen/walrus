@@ -11,8 +11,8 @@
     "workbench.colorCustomizations": {
       "editorIndentGuide.activeBackground": "#FF9966",
       "editorIndentGuide.background": "#4D4C60",
-      "editorCursor.foreground": "#FFBBFF", // "#FFC559", //"#FFBF47", //"#FF6347",
-      "terminalCursor.foreground": "#FFBBFF" // "#FFC559" //"#FFBF47"  // "#FF6347"
+      "editorCursor.foreground": "#FFBBFF",
+      "terminalCursor.foreground": "#FFBBFF"
     },
     "workbench.statusBar.visible": true,
     "window.menuBarVisibility": "classic",
