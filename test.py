@@ -1,4 +1,3 @@
-lmmkjjj
-kjjo
-klkkjkljjoi
-kjk5  5  55  
+letters = ['a', 'b', 'c']
+letters = letters + 'xyz'
+print(f'{letters = }')
