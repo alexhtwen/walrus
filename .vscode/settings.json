@@ -341,7 +341,7 @@
     "notebook.output.lineHeight": 28,
     "notebook.output.fontFamily": "'Inconsolata SemiCondensed', Inconsolata, Ubuntu Mono, Iosevka, Fantasque Sans Mono, mononoki, agave, Fira Code, ProggyVector, Office Code Pro, Menlo, Consolas, 'jf open 粉圓 1.1', Noto Sans TC",
     "git.openRepositoryInParentFolders": "never",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 2,
     "workbench.colorCustomizations:": {
       "terminal.ansiYellow": "#8400ff",
     },
